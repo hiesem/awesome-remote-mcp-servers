@@ -1078,6 +1078,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Docsy](https://docsy.remcp.site) `https://docsy.remcp.site/mcp/registry`
   [![Docsy MCP connector](https://glama.ai/mcp/connectors/io.github.getremcp/docsy/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.getremcp/docsy)
   🔓 - Search versioned developer documentation and fetch source-linked results using five read-only tools.
+- [Duo Data Utilities](https://api.duoleads.com/docs) `https://api.duoleads.com/mcp`
+  [![Duo Data Utilities MCP connector](https://glama.ai/mcp/connectors/com.duoleads.api/data-utilities/badges/score.svg)](https://glama.ai/mcp/connectors/com.duoleads.api/data-utilities)
+  🔓 - 33 deterministic data tools: ID/IBAN check digits, time zones, text, URL/JWT parsing, geo; $0.05 per call via x402.
 - [Dynamic Document API](https://dynamicdocumentapi.com/docs/mcp) `https://mcp.dynamicdocumentapi.com/mcp`
   [![Dynamic Document API MCP connector](https://glama.ai/mcp/connectors/com.dynamicdocumentapi/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.dynamicdocumentapi/mcp)
   🔐 - Render PDFs and images from templates, HTML or Markdown, and create validated XRechnung and ZUGFeRD e-invoices.
