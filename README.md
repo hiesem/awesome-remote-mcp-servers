@@ -1892,6 +1892,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DigiData](https://www.digi-data.nl/en/mcp) `https://mcp.digi-data.nl/mcp`
   [![DigiData MCP connector](https://glama.ai/mcp/connectors/nl.digi-data.mcp/digi-data/badges/score.svg)](https://glama.ai/mcp/connectors/nl.digi-data.mcp/digi-data)
   🔐 - Read-only business data from Exact Online, Twinfield, AFAS and 30+ sources: list, query and aggregate tables.
+- [Duo Crypto Derivatives](https://derivs.duoleads.com/docs) `https://derivs.duoleads.com/mcp`
+  [![Duo Crypto Derivatives MCP connector](https://glama.ai/mcp/connectors/com.duoleads.derivs/perp-funding-rates-open-interest/badges/score.svg)](https://glama.ai/mcp/connectors/com.duoleads.derivs/perp-funding-rates-open-interest)
+  🔓 - Perp funding rates, open interest, basis, IV, liquidations and order books on 8 exchanges; $0.003-$0.005 via x402.
 - [Eagle Virtual](https://eaglevirtual.com/mcp) `https://mcp.eaglevirtual.com/mcp`
   [![Eagle Virtual MCP connector](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/com.eaglevirtual/stablecoin-freeze-tracker)
   🔓 - Check any wallet against the dated on-chain record of USDT and USDC blacklistings, freezes and seizures.
@@ -2977,6 +2980,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CreatorsJet](https://www.creatorsjet.com/mcp) `https://api.creatorsjet.com/mcp`
   [![CreatorsJet MCP connector](https://glama.ai/mcp/connectors/com.creatorsjet/creatorsjet/badges/score.svg)](https://glama.ai/mcp/connectors/com.creatorsjet/creatorsjet)
   🔐 - Creator media kits, link-in-bio pages, deal requests, analytics, agency rosters and sponsor brand search.
+- [Duo Keyword Research](https://keywords.duoleads.com/docs) `https://keywords.duoleads.com/mcp`
+  [![Duo Keyword Research MCP connector](https://glama.ai/mcp/connectors/com.duoleads.keywords/keyword-search-volume-google-trends/badges/score.svg)](https://glama.ai/mcp/connectors/com.duoleads.keywords/keyword-search-volume-google-trends)
+  🔓 - Google keyword search volume, CPC, difficulty, keyword ideas and Google Trends; $0.03-$0.045 per call via x402.
 - [GrowSurf](https://docs.growsurf.com/build-with-ai) `https://mcp.growsurf.com`
   [![GrowSurf MCP connector](https://glama.ai/mcp/connectors/com.growsurf/growsurf/badges/score.svg)](https://glama.ai/mcp/connectors/com.growsurf/growsurf)
   🔐 - Build and manage GrowSurf referral and affiliate programs through AI assistants.
